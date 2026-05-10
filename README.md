@@ -16,19 +16,6 @@ NOVA is a full-stack AI-powered voice assistant that enables real-time voice int
 
 ---
 
-## 📸 Screenshots
-
-### Login and sign in
-<img width="717" height="721" alt="image" src="https://github.com/user-attachments/assets/95667583-5bc7-47ae-bd48-3ca4a44114e1" />
-
-
-
-### 🤖 AI Response
-
-<img width="721" height="721" alt="image" src="https://github.com/user-attachments/assets/a457f229-f202-4ca9-8ed9-9f1394bae94a" />
-
----
-
 ## 🧠 System Workflow
 
 ```
