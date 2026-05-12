@@ -14,27 +14,6 @@ NOVA is a full-stack AI-powered voice assistant that enables real-time voice int
 * 💬 Interactive Chat UI with Animations
 * 🌐 Full Stack Project (Frontend + Backend)
 
----
-
-## 🧠 System Workflow
-
-```
-User speaks 🎤
-   ↓
-SpeechRecognition (Browser)
-   ↓
-Text sent to Backend (FastAPI)
-   ↓
-AI Model via Groq API
-   ↓
-Response generated 🤖
-   ↓
-Returned to Frontend
-   ↓
-Text-to-Speech 🔊
-   ↓
-Displayed in Chat UI 💬
-```
 
 ---
 
@@ -78,28 +57,6 @@ Displayed in Chat UI 💬
 ### 🔹 Version Control
 
 * Git & GitHub
-
----
-
-## 📂 Project Structure
-
-```
-NOVA-AI-Voice-Assistant/
-│
-├── backend/
-│   ├── main.py
-│   ├── requirements.txt
-│   └── .env  (ignored for security)
-│
-├── frontend/
-│   ├── index.html
-│   ├── script.js
-│   └── style.css
-│
-├── screenshots/
-├── .gitignore
-└── README.md
-```
 
 ---
 
